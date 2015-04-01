@@ -5,7 +5,7 @@
 
 ###Project data
 * index.php - Website controller
-* models - Directory for all database interfacing
+* models - Directory for all database interfacing php files
 * views - Directory for all displayed HTML files
 * inc
 	* img - 7 image files
