@@ -9,3 +9,6 @@
 * views - Directory for all displayed HTML files
 * inc
 	* img - 7 image files
+
+###Website
+* http://cs.newpaltz.edu/~inglesec1/EmbeddedProj/
